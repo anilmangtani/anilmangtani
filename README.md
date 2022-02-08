@@ -3,14 +3,14 @@ My Name Is Anil Mangtani 💻</h1>
 
 <p >
   <a href="mailto:mangtanianil1510@gmail.com">Email</a> •
-  <a href="https://anil.github.io/">Website</a> •
+  <a href="https://anilmangtani.github.io/">Website</a> •
   <a href="https://github.com/anilmangtani/">GitHub</a> •
   <a href="https://www.linkedin.com/in/anil-mangtani">Linkedin</a>
 </p>
 
 
 Thanks for visiting my GitHub. I am Anil Mangtani.
-I am passionate about creating softwares I write code as solution for problems. Apart from tech I am interested in business and its working.
+I am passionate about creating softwares. I write code as solution for problems. Apart from tech I am interested in business and its working.
 
 I am interested in data science, system design, image processing and machine learning.
 
@@ -20,6 +20,8 @@ I am interested in data science, system design, image processing and machine lea
 <b>
 ✍🏻 ReactJS<br>
 ✍🏻 NodeJs<br>
+✍ MongoDB
+✍ Express.js
 ✍🏻 Java<br>
 ✍🏻 JavaScript<br>
 ✍🏻 Git & GitHub<br>
@@ -29,7 +31,7 @@ I am interested in data science, system design, image processing and machine lea
 ### Let's Get in touch
 <p >
   <a href="mailto:mangtanianil1510@gmail.com">Email</a> •
-  <a href="https://anil.github.io/">Website</a> •
+  <a href="https://anilmangtani.github.io/">Website</a> •
   <a href="https://github.com/anilmangtani/">GitHub</a> •
   <a href="https://www.linkedin.com/in/anil-mangtani">Linkedin</a>
   <a href="https://twitter.com/Mangtani_Anil">Twitter</a>

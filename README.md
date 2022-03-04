@@ -19,6 +19,7 @@ I am interested in data science, system design, image processing and machine lea
 ### My Skills
 <b>
 ✍🏻 ReactJS<br>
+✍🏻 Java<br>
 ✍🏻 NodeJs<br>
 ✍ MongoDB
 ✍ Express.js

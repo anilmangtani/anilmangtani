@@ -5,7 +5,7 @@ My Name Is Anil Mangtani 💻</h1>
   <a href="mailto:mangtanianil1510@gmail.com">Email</a> •
   <a href="https://anilmangtani.github.io/">Website</a> •
   <a href="https://github.com/anilmangtani/">GitHub</a> •
-  <a href="https://www.linkedin.com/in/anil-mangtani">Linkedin</a>
+  <a href="https://www.linkedin.com/in/anilmangtani">Linkedin</a>
 </p>
 
 
@@ -34,6 +34,6 @@ I am interested in data science, system design, image processing and machine lea
   <a href="mailto:mangtanianil1510@gmail.com">Email</a> •
   <a href="https://anilmangtani.github.io/">Website</a> •
   <a href="https://github.com/anilmangtani/">GitHub</a> •
-  <a href="https://www.linkedin.com/in/anil-mangtani">Linkedin</a>
+  <a href="https://www.linkedin.com/in/anilmangtani">Linkedin</a>
   <a href="https://twitter.com/Mangtani_Anil">Twitter</a>
 </p>

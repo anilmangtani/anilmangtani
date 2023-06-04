@@ -21,8 +21,8 @@ I am interested in data science, system design, image processing and machine lea
 ✍🏻 ReactJS<br>
 ✍🏻 Java<br>
 ✍🏻 NodeJs<br>
-✍ MongoDB
-✍ Express.js
+✍ MongoDB<br>
+✍ Express.js<br>
 ✍🏻 Java<br>
 ✍🏻 JavaScript<br>
 ✍🏻 Git & GitHub<br>

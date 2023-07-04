@@ -14,8 +14,6 @@ I am passionate about creating softwares. I write code as solution for problems.
 
 I am interested in data science, system design, image processing and machine learning.
 
-![Anil's github stats](https://github-readme-stats.vercel.app/api/?username=anilmangtani&show_icons=true&title_color=ffd1dc&icon_color=79ff97&text_color=ffd1dc&bg_color=151515)
-
 ### My Skills
 <b>
 ✍🏻 ReactJS<br>
